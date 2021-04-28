@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+}
+.image-top{
+  width: 50%;
+}
+.top{
+  background-color: #ccece3;
+  padding: 2% 2%;
+  font-family: 'Dancing Script', cursive;
+
+}
+.top h1 h1{
+  font-size: 700px;
+}
+.container{
+  padding: 50px;
+
+}
+.container h3{
+  font-family: 'Lora', serif;
+  padding-bottom: 30px;
+}
+hr{
+
+border-style: dotted;
+border-width: 10px;
+width:80px;
+border-top: none;
+border-left: none;
+border-right: none;
+border-color: #ccece3;
+}
+.core{
+  text-align: left;
+}
+.core h3{
+  text-align: center;
+}
+.comp{
+  background-color: #ccece3;
+  padding: 2% 2%;
+  font-family: 'Lora', serif;
+}
+.second{
+  margin-top: 60px;
+}
+.papers p{
+  text-align: left;
+}
+.formclass{
+  text-align: left;
+}
+.formclass h3{
+  text-align: center;
+
+}
